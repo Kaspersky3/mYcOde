@@ -1,0 +1,226 @@
+{
+  "abbreviations": [
+    {
+      "sigle": "TIR",
+      "definition": "Transit International Routier"
+    },
+    {
+      "sigle": "TCR",
+      "definition": "Transport en Commun Restrictif"
+    },
+    {
+      "sigle": "Dr",
+      "definition": "Catégorie « D » restrictif (Taxi)"
+    },
+    {
+      "sigle": "PTAC",
+      "definition": "Poids Total Autorisé en Charge"
+    },
+    {
+      "sigle": "PTRA",
+      "definition": "Poids Total Roulant Autorisé"
+    },
+    {
+      "sigle": "m",
+      "definition": "mètre (unité de longueur)"
+    },
+    {
+      "sigle": "Km",
+      "definition": "kilomètre"
+    },
+    {
+      "sigle": "Km/h",
+      "definition": "kilomètre par heure"
+    },
+    {
+      "sigle": "T",
+      "definition": "tonne (1 000 kg)"
+    },
+    {
+      "sigle": "Kg",
+      "definition": "kilogramme"
+    },
+    {
+      "sigle": "PLS",
+      "definition": "Position Latérale de Sécurité"
+    },
+    {
+      "sigle": "CNSR",
+      "definition": "Centre National de Sécurité Routière (Bénin)"
+    },
+    {
+      "sigle": "DGTT",
+      "definition": "Direction Générale des Transports Terrestres"
+    }
+  ],
+  "definitions": [
+    {
+      "titre": "Le code de la route",
+      "contenu": "Ensemble des conventions et des protocoles d'accord destinés à faciliter une circulation routière sûre et rapide. Son but est d'indiquer ou de rappeler les diverses prescriptions aux usagers."
+    },
+    {
+      "titre": "La route et la rue",
+      "contenu": "La route est un passage spécialement aménagé et ouvert à la circulation publique, revêtue ou non. A la traversée d'une ville, la route devient une rue."
+    },
+    {
+      "titre": "La route pour automobile",
+      "contenu": "Passage spécialement aménagé et ouvert à la circulation des véhicules à moteur à l'exception des cyclomoteurs. Composée de deux chaussées séparées par des glissières ou terre-plein central et pouvant comporter des intersections."
+    },
+    {
+      "titre": "L'autoroute",
+      "contenu": "Route à deux chaussées séparées par un terre-plein central, réservée à la circulation rapide des véhicules à moteur, ne comportant pas d'intersection et accessible seulement à des points aménagés. Accès interdit aux piétons, cycles, cyclomoteurs, animaux et engins lents."
+    },
+    {
+      "titre": "Chaussée et Voie",
+      "contenu": "La chaussée est la partie de la route réservée pour la circulation des véhicules. La voie est l'une des subdivisions de la chaussée ayant une largeur suffisante pour permettre la circulation d'une file de véhicules."
+    },
+    {
+      "titre": "Piste cyclable vs Bande cyclable",
+      "contenu": "La piste cyclable est un passage indépendant longeant la chaussée (séparé physiquement). La bande cyclable est une voie réservée tracée directement sur la chaussée."
+    },
+    {
+      "titre": "Le permis B au Bénin",
+      "contenu": "Autorise la conduite de tout véhicule affecté au transport de personnes ou de marchandises dont le Poids Total Autorisé en Charge (PTAC) ne dépasse pas 3,5 tonnes ou comportant 8 places assises non compris le siège du conducteur. L'âge minimal pour passer l'examen est de 18 ans. Une remorque jusqu'à 750 kg peut y être attelée."
+    },
+    {
+      "titre": "Les 4 catégories de panneaux",
+      "contenu": "1. Panneaux de danger (triangulaires listel rouge, placés à 50m en ville et 150m en rase campagne)\n2. Panneaux de prescriptions absolues (ronds : interdiction rouge, obligation bleu, fin d'interdiction blanc barré de noir, fin d'obligation bleu barré de rouge)\n3. Panneaux d'indication et de renseignement (carrés ou rectangulaires)\n4. Panneaux relatifs aux intersections et aux régimes de priorité (formes variées)."
+    },
+    {
+      "titre": "Véhicules prioritaires",
+      "contenu": "4 types de véhicules en mission avec avertisseurs sonores/lumineux activés : Police, Gendarmerie, Sapeurs-pompiers, SAMU/SMUR."
+    }
+  ],
+  "chiffresCles": [
+    {
+      "label": "Vitesse max en agglomération",
+      "valeur": "50 km/h",
+      "contexte": "Toutes routes en agglomération au Bénin"
+    },
+    {
+      "label": "Vitesse max jeune conducteur (permis < 1 an)",
+      "valeur": "90 km/h",
+      "contexte": "Sur route à grande circulation"
+    },
+    {
+      "label": "Distance panneau danger en ville",
+      "valeur": "50 m",
+      "contexte": "Avant le danger"
+    },
+    {
+      "label": "Distance panneau danger hors ville",
+      "valeur": "150 m",
+      "contexte": "Avant le danger"
+    },
+    {
+      "label": "Implantation du panneau A18 (double sens)",
+      "valeur": "0 m",
+      "contexte": "Prend effet immédiatement à hauteur du panneau !"
+    },
+    {
+      "label": "Distance d'arrêt à 90 km/h",
+      "valeur": "81 m",
+      "contexte": "Temps de réaction + freinage sur sol sec (9 x 9 = 81m)"
+    },
+    {
+      "label": "Temps de réaction moyen",
+      "valeur": "1 seconde",
+      "contexte": "Conducteur attentif et sobre"
+    },
+    {
+      "label": "Écart minimal dépassement piéton/cycliste",
+      "valeur": "1 m (agglo) / 1,5 m (hors agglo)",
+      "contexte": "Distance latérale de sécurité"
+    },
+    {
+      "label": "Écart minimal entre deux voitures",
+      "valeur": "0,50 m",
+      "contexte": "Dépassement en marche normale"
+    },
+    {
+      "label": "Intervalle de vitesse pour dépasser",
+      "valeur": "20 km/h de plus",
+      "contexte": "Différence recommandée avec le véhicule dépassé"
+    },
+    {
+      "label": "Taux d'alcoolémie limite légal",
+      "valeur": "0,5 g/litre de sang",
+      "contexte": "Multiplie le risque d'accident mortel par 2"
+    },
+    {
+      "label": "Délai de descente alcoolémie de 0,8 à 0,5 g/l",
+      "valeur": "2 heures",
+      "contexte": "Élimination moyenne naturelle par le foie"
+    },
+    {
+      "label": "Pause obligatoire long trajet",
+      "valeur": "10-15 min toutes les 2 heures",
+      "contexte": "Prévention de l'endormissement et de la fatigue"
+    },
+    {
+      "label": "Durée stationnement abusif",
+      "valeur": "7 jours consécutifs",
+      "contexte": "Au-delà de 7 jours au même endroit = mise en fourrière"
+    },
+    {
+      "label": "Âge minimal permis B",
+      "valeur": "18 ans",
+      "contexte": "Permis voiture de tourisme et utilitaire <= 3,5T"
+    },
+    {
+      "label": "Nombre de places max permis B",
+      "valeur": "8 places assises",
+      "contexte": "Sans compter le conducteur (9 personnes au total)"
+    },
+    {
+      "label": "PTAC remorque avec permis B simple",
+      "valeur": "750 kg",
+      "contexte": "Au-delà, permis E(B) requis si > poids à vide"
+    },
+    {
+      "label": "Seuil carte grise propre pour remorque",
+      "valeur": "500 kg de PTAC",
+      "contexte": "Immatriculation et carte grise indépendantes"
+    },
+    {
+      "label": "Dépassement chargement avant",
+      "valeur": "0 m (INTERDIT)",
+      "contexte": "Le chargement ne doit JAMAIS dépasser à l'avant !"
+    },
+    {
+      "label": "Dépassement chargement arrière",
+      "valeur": "3 m maximum",
+      "contexte": "Signalé dès 1 mètre par dispositif réfléchissant/feu"
+    },
+    {
+      "label": "Visibilité plaque minéralogique de nuit",
+      "valeur": "20 m",
+      "contexte": "Par temps clair avec l'éclairage de plaque"
+    },
+    {
+      "label": "Portée minimale feux de croisement (code)",
+      "valeur": "30 m",
+      "contexte": "Sans éblouir"
+    },
+    {
+      "label": "Portée minimale feux de route (phares)",
+      "valeur": "100 m",
+      "contexte": "Éclairage lointain en ligne droite"
+    },
+    {
+      "label": "Profondeur minimale rainures de pneus",
+      "valeur": "1,6 mm",
+      "contexte": "Témoin d'usure légal"
+    },
+    {
+      "label": "Espacement bornes d'appel autoroute",
+      "valeur": "2 km",
+      "contexte": "Bornes SOS d'urgence"
+    },
+    {
+      "label": "Distance triangle pré-signalisation accident",
+      "valeur": "30 m au moins",
+      "contexte": "En amont de l'obstacle ou de la panne"
+    }
+  ]
+}

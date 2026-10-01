@@ -1,0 +1,55 @@
+[
+  {
+    "id": "ambig-q82-84-87",
+    "questions": [
+      82,
+      84,
+      87
+    ],
+    "titre": "Ordre d'allumage des feux tricolores",
+    "description": "Le manuel DGTT 2011 propose plusieurs questions similaires. Dans la Q82, il valide à la fois 'vert-jaune-rouge' (a) et 'rouge-vert-jaune' (c). Dans la Q84, il valide 'vert-jaune-rouge' (a) et 'rouge-vert-jaune' (d). Dans la Q87, il ne retient que 'vert-jaune-rouge' (c).",
+    "regleOfficielle": "En cycle continu, le feu passe de Vert -> Jaune (orange) -> Rouge, puis directement Rouge -> Vert (ou selon certains cycles anciens avec transition). Pour l'examen, retenir le cycle standard : Vert, Jaune, Rouge.",
+    "statut": "documente"
+  },
+  {
+    "id": "ambig-q518",
+    "questions": [
+      518
+    ],
+    "titre": "Coquille de numérotation d'option (Q518)",
+    "description": "Dans la Q518 (« En cas de traitement médical en cours... »), le manuel imprime « Réponse e » alors que les options listées ne vont que de a à c.",
+    "regleOfficielle": "La réponse correcte correspond à l'option c : « de se renseigner auprès de son médecin ».",
+    "statut": "corrige_avec_mention"
+  },
+  {
+    "id": "ambig-q122",
+    "questions": [
+      122
+    ],
+    "titre": "Panneau B14(3) 60 km/h avec panonceau moto",
+    "description": "La question 122 demande ce que peut faire un automobiliste. Le manuel indique 'Réponse a-b-c-d' (toutes les options valides). Cela s'explique par le fait que le panonceau représentant une moto limite à 60 km/h uniquement les motos, la voiture n'étant pas concernée par cette limitation spécifique.",
+    "regleOfficielle": "Le panneau limite à 60 km/h uniquement la catégorie désignée par le panonceau. L'automobiliste suit la règle générale de la voie.",
+    "statut": "documente"
+  },
+  {
+    "id": "ambig-q871",
+    "questions": [
+      871
+    ],
+    "titre": "Erreur d'unité d'usure des pneus (Q871)",
+    "description": "Le manuel imprime '1,6m' au lieu de '1,6mm' pour la profondeur minimale des rainures des pneumatiques.",
+    "regleOfficielle": "Il s'agit évidemment de 1,6 millimètre (1,6 mm). L'application indique la valeur réelle avec la note du manuel.",
+    "statut": "corrige_avec_mention"
+  },
+  {
+    "id": "ambig-gap-417-426",
+    "questions": [
+      416,
+      427
+    ],
+    "titre": "Trou de numérotation dans le PDF officiel (417 à 426)",
+    "description": "A la page 94 du manuel, après la question n°416, la question suivante est immédiatement numérotée n°427. Il n'y a pas de questions 417 à 426 dans le PDF original.",
+    "regleOfficielle": "Numérotation préservée telle quelle pour fidélité au manuel d'examen de la DGTT.",
+    "statut": "documente"
+  }
+]
